@@ -1,0 +1,46 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+font-family: 'Vujahday Script', cursive;
+}
+h1{
+     font-size: 50px;
+ }
+ p{
+     font-size: 20px;
+ }
+ .headline-clr{
+        color: seagreen;
+    }
+    .box{
+        display: flex;
+        margin-right: 200px;
+        padding-bottom: 20%;
+    }
+    .half-side{
+        width: 50%;
+        padding-left: 10%;
+    }
+    .half-side img{
+        width: 60%;
+    }
+    .play{
+        font-size: 30px;
+        text-decoration: none;
+        text-shadow: sienna;
+        background-color: rgb(73, 112, 33);
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-weight: 700;
+    }
+.shadow{
+    box-shadow:10px 10px 40px gray;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    border-left: 10px groove;
+
+}
+.show-clr{
+    color: red;
+}
